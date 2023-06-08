@@ -1,5 +1,5 @@
 # Modelando Domínios Ricos
-####Foi aplicado os conceitos de OOP, DDD e CQRS para modelar um contexto de pagamentos, e transformação de domínios anêmicos para domínios ricos.
+#### Foi aplicado os conceitos de OOP, DDD e CQRS para modelar um contexto de pagamentos, e transformação de domínios anêmicos para domínios ricos.
 
 ### Resumo sobre o que foi feito:
 
@@ -15,7 +15,7 @@
 *   Testar Entidades e Value Objects
 *   Testar Handlers e Queries
 
-### Créditoss
+### Créditos
 *   Projeto criado com base no curso Modelando Domínios Ricos, oferecido pela plataforma Balta.io
 
 ```bash

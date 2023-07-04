@@ -20,7 +20,7 @@
 
 ```bash
 # clonar repositório
-git clone https://github.com/wagnerl1ma/Modelando-Dominios-Ricos.git
+git clone https://github.com/wagnerl1ma/modelando-dominios-ricos.git
 
 # Autor
 
